@@ -1,0 +1,23 @@
+{
+  "name": "travel_advisor",
+  "version": "1.0.0",
+  "description": "Travel Advisor App with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobWRowsse/travel_advisor.git"
+  },
+  "keywords": [
+    "Travel",
+    "Advisor"
+  ],
+  "author": "Bob Rowsse Walakira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BobWRowsse/travel_advisor/issues"
+  },
+  "homepage": "https://github.com/BobWRowsse/travel_advisor#readme"
+}
